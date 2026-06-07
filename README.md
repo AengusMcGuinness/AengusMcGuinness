@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AengusMcGuinness/AengusMcGuinness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Aengus McGuinness
+Harvard CS '27. Building C++ systems where latency matters.
+Currently: Infrastructure at Ironsite (SF) — RDMA, GPU clusters.
+Recently shipped: One-sided RDMA cache (974k ops/s, 12µs p99).
+Working on lock-free queues.
+[LinkedIn](https://www.linkedin.com/in/aengus-mcguinness-608a3a205/) · [Email](mailto:amcguinness@college.harvard.edu)
