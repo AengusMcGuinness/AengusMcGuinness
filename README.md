@@ -2,7 +2,7 @@
 
 Harvard CS '27. I build C++ systems where latency matters.
 
-**Now:** Senior at Harvard — Computing at Scale, Advanced Computer Networks, Advanced Topics in Computer Architecture, Systems Security. Writing lock-free queues on the side.
+**Now:** Senior at Harvard — Advanced Computer Networks, Advanced Topics in Computer Architecture, Systems Security. Writing lock-free queues on the side.
 
 **Ironsite** (SF) — Member of Technical Staff, Infrastructure; on leave for senior year. Autoscaled vLLM inference over GPU spot fleets, cross-cloud capacity and data residency, exactly-once processing under preemption.
 
@@ -13,4 +13,4 @@ Harvard CS '27. I build C++ systems where latency matters.
 
 Most interested in problems where p99 is the constraint — low-latency networking, inference serving, and the layers below.
 
-[aengusmcguinness.com](https://aengusmcguinness.com) · [LinkedIn](https://www.linkedin.com/in/aengus-mcguinness-608a3a205/) · [Email](mailto:amcguinness@college.harvard.edu)
+[aengusmcguinness.com](https://aengusmcguinness.com) · [LinkedIn](https://www.linkedin.com/in/aengus-mcguinness) · [Email](mailto:amcguinness@college.harvard.edu)
