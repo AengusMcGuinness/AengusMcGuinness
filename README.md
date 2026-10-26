@@ -4,7 +4,7 @@ Harvard CS '27. I build C++ systems where latency matters.
 
 **Now:** Senior at Harvard — Advanced Computer Networks, Advanced Topics in Computer Architecture, Systems Security. Writing lock-free queues on the side.
 
-**Ironsite** (SF) — Member of Technical Staff, Infrastructure; on leave for senior year. Autoscaled vLLM inference over GPU spot fleets, cross-cloud capacity and data residency, exactly-once processing under preemption.
+**Ironsite** (SF), May–August 2026 — Member of Technical Staff, Infrastructure. Autoscaled vLLM inference over GPU spot fleets, cross-cloud capacity and data residency, exactly-once processing under preemption.
 
 ### Selected work
 
